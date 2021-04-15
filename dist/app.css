@@ -1,3 +1,19 @@
 body {
-  background-color: lightgreen;
+  background-color: #fff;
+  text-align: center;
+}
+
+h1 {
+  color: #52d69c;
+}
+
+.container {
+  border: 5px solid #52d69c;
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+p {
+  background-color: #52d69c;
 }

@@ -1,3 +1,22 @@
+$primary: #52d69c;
+$white: #fff;
+
 body{
-  background-color: lightgreen;
+  background-color: $white;
+  text-align: center;
+}
+
+h1{
+  color: $primary;
+}
+
+.container{
+  border: 5px solid $primary;
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+p{
+  background-color: $primary;
 }
